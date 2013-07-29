@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Git/Trendsales iOS v3/TSiOS/TSiOS/AppDelegate.cs">
+    <Files>
+      <File FileName="MonoTouch.PonyDebugger/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="MonoTouch.PonyDebugger/libPonyDebugger.linkwith.cs" Line="1" Column="1" />
+      <File FileName="../../Git/Trendsales iOS v3/TSiOS/TSiOS/AppDelegate.cs" Line="28" Column="76" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="MonoTouch.PonyDebugger" expanded="True">
+            <Node name="libPonyDebugger.a" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
